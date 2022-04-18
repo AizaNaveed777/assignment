@@ -1,0 +1,4 @@
+﻿  puzzle.cpp
+C:\Users\HP\source\repos\Project32\Project32\puzzle.cpp(274,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\Project32\Project32\puzzle.cpp(285,11): warning C4018: '<': signed/unsigned mismatch
+  Project32.vcxproj -> C:\Users\HP\source\repos\Project32\Debug\Project32.exe
